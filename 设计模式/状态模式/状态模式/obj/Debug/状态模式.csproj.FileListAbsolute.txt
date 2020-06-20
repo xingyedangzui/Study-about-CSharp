@@ -1,0 +1,6 @@
+C:\Users\82620\Desktop\设计模式\状态模式\状态模式\bin\Debug\状态模式.exe.config
+C:\Users\82620\Desktop\设计模式\状态模式\状态模式\bin\Debug\状态模式.exe
+C:\Users\82620\Desktop\设计模式\状态模式\状态模式\bin\Debug\状态模式.pdb
+C:\Users\82620\Desktop\设计模式\状态模式\状态模式\obj\Debug\状态模式.csprojResolveAssemblyReference.cache
+C:\Users\82620\Desktop\设计模式\状态模式\状态模式\obj\Debug\状态模式.exe
+C:\Users\82620\Desktop\设计模式\状态模式\状态模式\obj\Debug\状态模式.pdb

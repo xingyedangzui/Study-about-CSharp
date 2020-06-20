@@ -1,0 +1,6 @@
+C:\Users\82620\Desktop\设计模式\日常训练实践\日常训练实践\bin\Debug\日常训练实践.exe.config
+C:\Users\82620\Desktop\设计模式\日常训练实践\日常训练实践\bin\Debug\日常训练实践.exe
+C:\Users\82620\Desktop\设计模式\日常训练实践\日常训练实践\bin\Debug\日常训练实践.pdb
+C:\Users\82620\Desktop\设计模式\日常训练实践\日常训练实践\obj\Debug\日常训练实践.csprojResolveAssemblyReference.cache
+C:\Users\82620\Desktop\设计模式\日常训练实践\日常训练实践\obj\Debug\日常训练实践.exe
+C:\Users\82620\Desktop\设计模式\日常训练实践\日常训练实践\obj\Debug\日常训练实践.pdb
